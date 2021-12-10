@@ -1,0 +1,22 @@
+.not_important {
+  font-size: 15px;
+  color:silver;
+}
+
+.comments {
+  font-size: 15px;
+  color:red;
+}
+
+.author {
+  color:green;
+}
+
+a {
+  color:blue;
+}
+
+.container {
+  display:grid;
+  grid-template-columns: 0.1fr 1fr;
+}
